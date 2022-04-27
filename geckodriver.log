@@ -1,0 +1,100 @@
+1650612851751	geckodriver	INFO	Listening on 127.0.0.1:60138
+1650612854797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ayoko\\AppData\\Local\\Temp\\rust_mozprofileL9xKss"
+1650612856550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ayoko\\AppData\\Local\\Temp\\rust_mozprofileL9xKss\\search.json.mozlz4", (void 0)))
+1650612861755	Marionette	INFO	Listening on port 60166
+Read port: 60166
+1650612861889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650612902225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-22T07:35:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:35:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:35:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:35:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 5404, MediaDecoderStateMachine #1] WARNING: 280311fcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5404, MediaDecoderStateMachine #1] WARNING: 28033ae7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JAPUMHT_zNnrVfwA4fX3UESFQekER8YYbnBYivkpjVo.js line 1 > eval line 679 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5404, MediaDecoderStateMachine #1] WARNING: 28033ae7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5404, MediaDecoderStateMachine #1] WARNING: 28031836660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[2022-04-22T07:36:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:36:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:36:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T07:36:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 2560, MediaDecoderStateMachine #1] WARNING: 1cc6312f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2560, MediaDecoderStateMachine #1] WARNING: 1cc5a2562e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2560, MediaDecoderStateMachine #1] WARNING: 1cc63d38f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2560, MediaDecoderStateMachine #1] WARNING: 1cc63d38f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1650613349993	Marionette	INFO	Stopped listening on port 60166
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ication.com/bg/JAPUMHT_zNnrVfwA4fX3UESFQekER8YYbnBYivkpjVo.js line 1 > eval line 6829 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 11392, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JAPUMHT_zNnrVfwA4fX3UESFQekER8YYbnBYivkpjVo.js line 1 > eval line 4748 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vn.yahoo.com"
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1650613174025	Marionette	INFO	Stopped listening on port 60358
+[Parent 11392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650613190744	geckodriver	INFO	Listening on 127.0.0.1:60657
+1650613193793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ayoko\\AppData\\Local\\Temp\\rust_mozprofileZsBuSz"
+1650613194373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ayoko\\AppData\\Local\\Temp\\rust_mozprofileZsBuSz\\search.json.mozlz4", (void 0)))
+1650613197723	Marionette	INFO	Listening on port 60686
+Read port: 60686
+1650613197808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650613207742	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650613236853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650613240823	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1650613241887	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1650613245468	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650613264612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1650613265934	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://halome.com/_next/static/chunks/266.61d05faa88e0d3ce.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://halome.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650614150578	Marionette	INFO	Stopped listening on port 60686

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DETECTION APP</title>
+</head>
+<body style="background-image: url('{{url_for('static', filename='OIP.jpg')}}');">
+<center>
+
+    <pre>   
+        <marquee direction="left"><h2>A-Y-O-K-O</h2></marquee>
+
+        <h1 style="width: fit-content;">WELCOME TO DROWSY WARNING SORFWARE!!!</h1>
+        <div align="center">
+             <a href="{{ url_for('running') }}" width=100%>
+                <button>START</button></a> 
+    </pre>
+    <script>
+        var video = document.querySelector("#videoElement");
+        if (navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices.getUserMedia({video: true}).then(function(stream) {
+            video.srcObject = stream;
+        }).catch(function(err0r) {
+        console.log("Something went wrong!");
+
+    </script>
+
+</center>
+</body>
+</html>

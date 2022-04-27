@@ -1,0 +1,7 @@
+flask
+scipy
+numpy
+imutils
+python-opencv
+pygame
+dlib
